@@ -1,5 +1,11 @@
 # @eth-optimism/core-utils
 
+## 0.2.4
+
+### Patch Changes
+
+- 0497d7d: Re-organize event typings to core-utils
+
 ## 0.2.3
 
 ### Patch Changes

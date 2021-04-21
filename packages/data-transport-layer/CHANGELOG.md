@@ -1,5 +1,13 @@
 # data transport layer
 
+## 0.1.7
+
+### Patch Changes
+
+- 0497d7d: Re-organize event typings to core-utils
+- Updated dependencies [0497d7d]
+  - @eth-optimism/core-utils@0.2.4
+
 ## 0.1.6
 
 ### Patch Changes

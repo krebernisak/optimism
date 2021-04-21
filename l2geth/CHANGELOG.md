@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.3
+
+### Patch Changes
+
+- d6734f6: Change ROLLUP_BASE_TX_SIZE to camelcase for standard style
+- 5e0d0fc: Commit go.sum after a `make test`
+- ef40ed7: Allow gas estimation for replicas
+
 ## 0.2.2
 
 ### Patch Changes
